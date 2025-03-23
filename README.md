@@ -6,15 +6,23 @@ This project aims to predict the selling price of used cars based on various fea
 
 Dataset Features:
 
-Car Brand
-Year
-Sold Price
-Present Price
-KMs Driven
-Fuel Type
-Seller Type
-Transmission Type
-Owners
+1.Car Brand
+
+2.Year
+
+3.Sold Price
+
+4.Present Price
+
+5.K/Ms Driven
+
+6.Fuel Type
+
+7.Seller Type
+
+8.Transmission Type
+
+9.Owners
 
 Workflow :
 
