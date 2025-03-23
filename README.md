@@ -4,6 +4,9 @@ Project Overview
 
 This project aims to predict the selling price of used cars based on various features such as brand, year of manufacture, kilometers driven, fuel type, and more. The model is trained using Machine Learning techniques like Linear Regression and Lasso Regression.
 
+
+
+
 Dataset Features:
 
 1.Car Brand
@@ -24,9 +27,12 @@ Dataset Features:
 
 9.Owners
 
+
+
 Workflow :
 
 The project follows the below workflow:
+
 
 Training Phase
 
@@ -42,7 +48,8 @@ Train a Linear Regression Model.
 
 Train a Lasso Regression Model.
 
-Prediction Phase
+ 
+Testing Phase
 
 New Data: Input new car details.
 
@@ -50,11 +57,13 @@ Trained Model: Use the trained Linear & Lasso Regression models.
 
 Car Price Prediction: Predict the estimated price of the car.
 
+
+
 Technologies Used
 
 Python
 
-Pandas, NumPy (Data Processing)
+Pandas(Data Processing)
 
 Scikit-Learn (Machine Learning models)
 
